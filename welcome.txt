@@ -1,2 +1,3 @@
 conflict demo
 line by dev
+rising conflict by nother dev
